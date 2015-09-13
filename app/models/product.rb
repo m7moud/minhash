@@ -1,0 +1,1 @@
+Product = Struct.new(:id)

@@ -1,0 +1,5 @@
+require 'csv'
+require './lib/recommendation/minhash'
+require './lib/recommendation/engine'
+require './app/models/user'
+# require './app/models/product'
